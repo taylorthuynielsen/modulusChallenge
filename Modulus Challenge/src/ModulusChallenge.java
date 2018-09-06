@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class modulusChallenge
+public class ModulusChallenge
 	{
 
 		public static void main(String[] args)
